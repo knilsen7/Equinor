@@ -1,2 +1,2 @@
 # Equinor
-Repository for the work in IN
+Repository for the work in Equinor
